@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deekshitha Bandam</h1>
 <h3 align="center">I have work experience as an intern at Gap Inc. I have build Reactjs webpages for an internal project at the company. I have successfully finished Master Advanced Data Structures and Algorithms in Smart Interviews.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deekshitha-bandam" alt="deekshitha-bandam" /></a> </p>
-
 - 🌱 I’m currently learning **MERN technologies to become a Full stack developer. And solving complex Data Structure problems for critical thinking.**
 
 - 💬 Ask me about **ReactJs, Python, Machine Learning etc. and other technologies by reviewing my resume.**
