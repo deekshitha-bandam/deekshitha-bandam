@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deekshitha Bandam</h1>
-<h3 align="center">I have work experience as an intern at Gap Inc. I have build Reactjs webpages for an internal project at the company. I have successfully finished Master Advanced Data Structures and Algorithms in Smart Interviews.</h3>
+<h3 align="center">•	Converted Oracle ADF based webpages to ReactJs based pages to improve the performance and scalability.Built two screens called “QueueDepth” and “Ops Analysis”.Building constant input contract for every action performed on UI was the complex task. The data to the UI is fetched from the ORDS (Oracle REST Data Services) service call by hitting actual DB. We improvised the flexibility to change any of the three services (ie. UI, ORDS, Db) in the future. I have successfully finished Master Advanced Data Structures and Algorithms course in Smart Interviews.</h3>
 
 - 🌱 I’m currently learning **MERN technologies to become a Full stack developer. And solving complex Data Structure problems for critical thinking.**
 
