@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **deekshithabandam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O_YmQRsAoRMeTGUw35uvAebiTY26_HAn/view?usp=sharing](https://drive.google.com/file/d/1O_YmQRsAoRMeTGUw35uvAebiTY26_HAn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-0m-OhshabE7VKg6FYNsyKzOvzGU8pR1/view?usp=drive_link].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
